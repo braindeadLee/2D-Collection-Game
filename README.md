@@ -1,4 +1,4 @@
-#2D Collection Game
+# 2D Collection Game
 
 "2D Collection Game" project from Scott H. Cameron's *Unity 2022 by Example*.
 
